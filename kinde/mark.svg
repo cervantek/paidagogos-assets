@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Lyre, three strings, on an Aegean tile. Favicon: drawn for 16 px and 32 px. -->
+  <rect width="32" height="32" rx="7" fill="#24476c"/>
+  <path fill="#f6f3ec" d="M10 10H12V25.5H10ZM15 10H17V25.5H15ZM20 10H22V25.5H20Z"/>
+  <path fill="#d3b46c" d="M16 29C23.15 29 29 24 29 19C29 14.77 27 13.01 27 10C27 8.34 27.61 6.74 28.7 5.5A1.5 1.5 0 0 0 26.45 3.51C24.85 5.33 24 7.73 24 10.12C24 12.96 25.2 15.26 25.2 18.41C25.2 21.49 21.06 24 16 24C10.94 24 6.8 21.49 6.8 18.41C6.8 15.26 8 12.96 8 10.12C8 7.73 7.15 5.33 5.55 3.51A1.5 1.5 0 0 0 3.3 5.5C4.39 6.74 5 8.34 5 10C5 13.01 3 14.77 3 19C3 24 8.85 29 16 29Z"/>
+  <rect x="3" y="8" width="26" height="4" rx="2" fill="#d3b46c"/>
+</svg>
